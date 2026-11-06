@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Petjada" xmlns="http://www.topografix.com/GPX/1/1">
+	<metadata><name>Etapa 2 · Pla B1: peu de la pujada → carretera d'Adrasan</name></metadata>
+	<wpt lat="36.325872" lon="30.46426">
+		<ele>30.0</ele>
+		<name>Peu de la pujada</name>
+		<sym>circle-01</sym>
+	</wpt>
+	<wpt lat="36.325235" lon="30.459284">
+		<ele>18.0</ele>
+		<name>Recollida vehicle (B1)</name>
+		<sym>circle-01</sym>
+	</wpt>
+	<trk>
+		<name>Etapa 2 · Pla B1: peu de la pujada → carretera d'Adrasan</name>
+		<trkseg>
+			<trkpt lat="36.325872" lon="30.46426">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.325865" lon="30.464279">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.32601" lon="30.464413">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326183" lon="30.464522">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326328" lon="30.464503">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326473" lon="30.464467">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326661" lon="30.464369">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326784" lon="30.464243">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.32695" lon="30.464126">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326625" lon="30.463748">
+				<ele>29.0</ele>
+			</trkpt>
+			<trkpt lat="36.32661" lon="30.463524">
+				<ele>28.0</ele>
+			</trkpt>
+			<trkpt lat="36.326668" lon="30.46339">
+				<ele>28.0</ele>
+			</trkpt>
+			<trkpt lat="36.32669" lon="30.462985">
+				<ele>27.0</ele>
+			</trkpt>
+			<trkpt lat="36.326625" lon="30.462779">
+				<ele>26.0</ele>
+			</trkpt>
+			<trkpt lat="36.326378" lon="30.462438">
+				<ele>25.0</ele>
+			</trkpt>
+			<trkpt lat="36.32635" lon="30.462086">
+				<ele>24.0</ele>
+			</trkpt>
+			<trkpt lat="36.326263" lon="30.461836">
+				<ele>23.0</ele>
+			</trkpt>
+			<trkpt lat="36.325973" lon="30.461521">
+				<ele>22.0</ele>
+			</trkpt>
+			<trkpt lat="36.325945" lon="30.46126">
+				<ele>21.0</ele>
+			</trkpt>
+			<trkpt lat="36.326031" lon="30.460901">
+				<ele>20.0</ele>
+			</trkpt>
+			<trkpt lat="36.326002" lon="30.460704">
+				<ele>20.0</ele>
+			</trkpt>
+			<trkpt lat="36.325633" lon="30.459769">
+				<ele>19.0</ele>
+			</trkpt>
+			<trkpt lat="36.325401" lon="30.459725">
+				<ele>19.0</ele>
+			</trkpt>
+			<trkpt lat="36.325199" lon="30.459302">
+				<ele>18.0</ele>
+			</trkpt>
+			<trkpt lat="36.325235" lon="30.459284">
+				<ele>18.0</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
