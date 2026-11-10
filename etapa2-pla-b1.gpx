@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="Petjada" xmlns="http://www.topografix.com/GPX/1/1">
-	<metadata><name>Etapa 2 · Pla B1: peu de la pujada → carretera d'Adrasan</name></metadata>
+	<metadata><name>Etapa 2 · Pla B1: abans d'iniciar la pujada → carretera d'Adrasan</name></metadata>
 	<wpt lat="36.325872" lon="30.46426">
 		<ele>30.0</ele>
-		<name>Peu de la pujada</name>
+		<name>Abans d'iniciar la pujada</name>
 		<sym>circle-01</sym>
 	</wpt>
 	<wpt lat="36.325235" lon="30.459284">
@@ -12,7 +12,7 @@
 		<sym>circle-01</sym>
 	</wpt>
 	<trk>
-		<name>Etapa 2 · Pla B1: peu de la pujada → carretera d'Adrasan</name>
+		<name>Etapa 2 · Pla B1: abans d'iniciar la pujada → carretera d'Adrasan</name>
 		<trkseg>
 			<trkpt lat="36.325872" lon="30.46426">
 				<ele>30.0</ele>
