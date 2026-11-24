@@ -1,111 +1,94 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx creator="CompeGPS" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" xmlns:twonav="http://twonav.com/twonav">
-  <metadata>
-    <author>
-      <email id="" domain=""/>
-    </author>
-    <copyright author="">
-      <license></license>
-    </copyright>
-    <link href="http://www.compegps.com">
-      <text>CompeGPS TEAM, SL</text>
-    </link>
-    <bounds maxlat="36.326950" maxlon="30.464522" minlat="36.325199" minlon="30.459284"/>
-  </metadata>
-  <trk>
-    <name>etapa2-pla-b1</name>
-    <extensions>
-      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-        <width>4</width>
-      </line>
-      <gpxx:TrackExtension>
-        <gpxx:DisplayColor>DarkYellow</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-      <twonav:TwoNavExtension>
-        <twonav:activity>4</twonav:activity>
-        <twonav:terrain>0</twonav:terrain>
-      </twonav:TwoNavExtension>
-    </extensions>
-    <trkseg>
-      <trkpt lat="36.325872" lon="30.464260">
-        <ele>30.0</ele>
-        <cmt>Abans d&apos;iniciar la pujada</cmt>
-        <sym>circle-01</sym>
-      </trkpt>
-      <trkpt lat="36.325865" lon="30.464279">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326010" lon="30.464413">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326183" lon="30.464522">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326328" lon="30.464503">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326473" lon="30.464467">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326661" lon="30.464369">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326784" lon="30.464243">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326950" lon="30.464126">
-        <ele>30.0</ele>
-      </trkpt>
-      <trkpt lat="36.326625" lon="30.463748">
-        <ele>29.0</ele>
-      </trkpt>
-      <trkpt lat="36.326610" lon="30.463524">
-        <ele>28.0</ele>
-      </trkpt>
-      <trkpt lat="36.326668" lon="30.463390">
-        <ele>28.0</ele>
-      </trkpt>
-      <trkpt lat="36.326690" lon="30.462985">
-        <ele>27.0</ele>
-      </trkpt>
-      <trkpt lat="36.326625" lon="30.462779">
-        <ele>26.0</ele>
-      </trkpt>
-      <trkpt lat="36.326378" lon="30.462438">
-        <ele>25.0</ele>
-      </trkpt>
-      <trkpt lat="36.326350" lon="30.462086">
-        <ele>24.0</ele>
-      </trkpt>
-      <trkpt lat="36.326263" lon="30.461836">
-        <ele>23.0</ele>
-      </trkpt>
-      <trkpt lat="36.325973" lon="30.461521">
-        <ele>22.0</ele>
-      </trkpt>
-      <trkpt lat="36.325945" lon="30.461260">
-        <ele>21.0</ele>
-      </trkpt>
-      <trkpt lat="36.326031" lon="30.460901">
-        <ele>20.0</ele>
-      </trkpt>
-      <trkpt lat="36.326002" lon="30.460704">
-        <ele>20.0</ele>
-      </trkpt>
-      <trkpt lat="36.325633" lon="30.459769">
-        <ele>19.0</ele>
-      </trkpt>
-      <trkpt lat="36.325401" lon="30.459725">
-        <ele>19.0</ele>
-      </trkpt>
-      <trkpt lat="36.325199" lon="30.459302">
-        <ele>18.0</ele>
-      </trkpt>
-      <trkpt lat="36.325235" lon="30.459284">
-        <ele>18.0</ele>
-        <cmt>Recollida vehicle (B1)</cmt>
-        <sym>circle-01</sym>
-      </trkpt>
-    </trkseg>
-  </trk>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Petjada" xmlns="http://www.topografix.com/GPX/1/1">
+	<metadata><name>Etapa 2 · Pla B1: abans d'iniciar la pujada → carretera d'Adrasan</name></metadata>
+	<wpt lat="36.325872" lon="30.46426">
+		<ele>30.0</ele>
+		<name>Abans d'iniciar la pujada</name>
+		<sym>circle-01</sym>
+	</wpt>
+	<wpt lat="36.325235" lon="30.459284">
+		<ele>18.0</ele>
+		<name>Recollida vehicle (B1)</name>
+		<sym>circle-01</sym>
+	</wpt>
+	<trk>
+		<name>Etapa 2 · Pla B1: abans d'iniciar la pujada → carretera d'Adrasan</name>
+		<trkseg>
+			<trkpt lat="36.325872" lon="30.46426">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.325865" lon="30.464279">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.32601" lon="30.464413">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326183" lon="30.464522">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326328" lon="30.464503">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326473" lon="30.464467">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326661" lon="30.464369">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326784" lon="30.464243">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.32695" lon="30.464126">
+				<ele>30.0</ele>
+			</trkpt>
+			<trkpt lat="36.326625" lon="30.463748">
+				<ele>29.0</ele>
+			</trkpt>
+			<trkpt lat="36.32661" lon="30.463524">
+				<ele>28.0</ele>
+			</trkpt>
+			<trkpt lat="36.326668" lon="30.46339">
+				<ele>28.0</ele>
+			</trkpt>
+			<trkpt lat="36.32669" lon="30.462985">
+				<ele>27.0</ele>
+			</trkpt>
+			<trkpt lat="36.326625" lon="30.462779">
+				<ele>26.0</ele>
+			</trkpt>
+			<trkpt lat="36.326378" lon="30.462438">
+				<ele>25.0</ele>
+			</trkpt>
+			<trkpt lat="36.32635" lon="30.462086">
+				<ele>24.0</ele>
+			</trkpt>
+			<trkpt lat="36.326263" lon="30.461836">
+				<ele>23.0</ele>
+			</trkpt>
+			<trkpt lat="36.325973" lon="30.461521">
+				<ele>22.0</ele>
+			</trkpt>
+			<trkpt lat="36.325945" lon="30.46126">
+				<ele>21.0</ele>
+			</trkpt>
+			<trkpt lat="36.326031" lon="30.460901">
+				<ele>20.0</ele>
+			</trkpt>
+			<trkpt lat="36.326002" lon="30.460704">
+				<ele>20.0</ele>
+			</trkpt>
+			<trkpt lat="36.325633" lon="30.459769">
+				<ele>19.0</ele>
+			</trkpt>
+			<trkpt lat="36.325401" lon="30.459725">
+				<ele>19.0</ele>
+			</trkpt>
+			<trkpt lat="36.325199" lon="30.459302">
+				<ele>18.0</ele>
+			</trkpt>
+			<trkpt lat="36.325235" lon="30.459284">
+				<ele>18.0</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
 </gpx>

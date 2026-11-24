@@ -29,17 +29,17 @@
     </extensions>
     <trkseg>
       <trkpt lat="36.714998" lon="30.516482">
-        <ele>-9999.0</ele>
+        <ele>662.6</ele>
         <time>2026-11-18T16:05:14.384Z</time>
         <cmt>Inici Pujada</cmt>
         <sym>Flag_green</sym>
       </trkpt>
       <trkpt lat="36.714937" lon="30.516515">
-        <ele>0</ele>
+        <ele>662.6</ele>
         <time>2026-11-18T16:05:14.383Z</time>
       </trkpt>
       <trkpt lat="36.714515" lon="30.516418">
-        <ele>0</ele>
+        <ele>662.6</ele>
         <time>2026-11-18T16:05:48.710Z</time>
       </trkpt>
       <trkpt lat="36.714515" lon="30.516418">

@@ -29,7 +29,7 @@
     </extensions>
     <trkseg>
       <trkpt lat="36.772451" lon="30.469365">
-        <ele>-9999.0</ele>
+        <ele>857.5</ele>
         <time>2026-11-18T16:20:39.788Z</time>
         <cmt>Hasarçandir</cmt>
         <sym>Flag_green</sym>
